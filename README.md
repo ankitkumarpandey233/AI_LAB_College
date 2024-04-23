@@ -1,2 +1,3 @@
 # AI_LAB_College
-my al practical
+Ai Practical for CE-C (MANAN SIR)
+BY~Ankit Kumar Pandey
